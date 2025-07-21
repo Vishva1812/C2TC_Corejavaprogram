@@ -3,22 +3,23 @@ package day1.entity;
 public class customerdemo {
 
 	public static void main(String[] args) {
+		int m,n;
+		m=100;
+		
+		
+	//customer 1
 		customer c1=new customer();
-		c1.cid=101;
-		c1.cname="raja";
-		c1.city="puducherry";
-		System.out.println("customer id:"+c1.cid);
-		System.out.println("customer name:"+c1.cname);
-		System.out.println("customer city:"+c1.city);
+		c1.setcid=(101);
+		c1.setCname=("raja");
+		c1.setCity=("Puducherry");
+		System.out.println(c1);
 		
-		
+	//customer 2
 		customer c2=new customer();
-		c2.cid=102;
-		c2.cname="arjun";
-		c2.city="puducherry";
-		System.out.println("customer id:"+c2.cid);
-		System.out.println("customer name:"+c2.cname);
-		System.out.println("customer city:"+c2.city);
+		c2.setcid=(102);
+		c2.setCname=("Arun");
+		c2.setCity=("Chennai");
+		System.out.println(c2);
 
 	}
 

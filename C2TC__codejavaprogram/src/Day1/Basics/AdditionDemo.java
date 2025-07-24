@@ -1,5 +1,5 @@
 package Day1.Basics;
-import.java.util.Scanner;
+import java.util.Scanner;
 
 public class AdditionDemo {
 

@@ -1,4 +1,4 @@
-package day4;
+package day4.Const;
 
 public class dmemi {
 

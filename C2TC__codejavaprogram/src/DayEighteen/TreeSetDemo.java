@@ -1,4 +1,4 @@
-package day18;
+package DayEighteen;
 
 import java.util.Set;
 import java.util.SortedSet;

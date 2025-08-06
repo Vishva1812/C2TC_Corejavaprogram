@@ -1,5 +1,4 @@
-
-package day18;
+package DayEighteen;
 
 import java.util.Comparator;
 import java.util.TreeMap;

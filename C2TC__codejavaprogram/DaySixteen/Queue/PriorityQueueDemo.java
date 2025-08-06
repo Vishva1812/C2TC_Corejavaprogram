@@ -1,5 +1,5 @@
 
-package day16.queue;
+package Daysixteen.queue;
 
 
 import java.util.Iterator;

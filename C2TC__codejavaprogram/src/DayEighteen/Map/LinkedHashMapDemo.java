@@ -1,5 +1,4 @@
-
-package day18.map;
+package DayEighteen.map;
 
 import java.util.LinkedHashMap;
 

@@ -1,6 +1,4 @@
-
-
-package day18;
+package DayEighteen;
 
 public class Student implements Comparable 
 {
